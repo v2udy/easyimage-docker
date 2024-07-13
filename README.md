@@ -3,7 +3,6 @@
 >环境信息说放在最后说明
 
 easyimage部署(极空间docker)
-docker pull
 
 ### 步骤
 1. 下载docker镜像(如果因网络问题下载失败，尝试本地导入镜像)
@@ -30,6 +29,7 @@ chmod 777 /tmp
 ### 环境说明
 ![下载docker镜像](attachments/env.png)
 docker version: V2.2
+
 easyimage version: v2.8.5
 
 
